@@ -5,3 +5,4 @@ certifi==2025.4.26
 google-generativeai
 python-dotenv
 requests
+beautifulsoup4
