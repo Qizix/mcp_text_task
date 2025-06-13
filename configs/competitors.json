@@ -1,123 +1,16 @@
 {
-    "ramp": {
-    "name": "Ramp",
+    "name": {
+    "name": "NAME",
     "urls": {
-      "pricing": "https://ramp.com/pricing",
-      "blog": "https://ramp.com/blog"
+      "pricing": "LINK FOR PRICING",
+      "blog": "LINK FOR BLOG"
     },
     "tracking_keywords": {
-      "blog": ["ai", "automation", "procurement"]
+      "blog": ["keyword1", "keyword2", "keyword3"]
     },
     "block_clasess": {
-      "pricing": ".lg\\:min-h-\\[97px\\]",
-      "blog": ".KbCard_kbcard-content__T_gm0"
-    }
-  },
-  
-  "torii": {
-    "name": "Torii",
-    "urls": {
-      "pricing": "https://www.toriihq.com/pricing",
-      "blog": "https://www.toriihq.com/blog"
-    },
-    "tracking_keywords": {
-      "blog": ["ai", "automation", "procurement"]
-    },
-    "block_clasess": {
-      "pricing": ".elementor-element-12bee0c2",
-      "blog": ".elementor-post__card"
-    }
-  },
-
-  "vertice": {
-    "name": "Vertice",
-    "urls": {
-      "pricing": "https://www.vertice.one/pricing",
-      "blog": "https://www.vertice.one/blog"
-    },
-    "tracking_keywords": {
-      "blog": ["ai", "automation", "procurement"]
-    },
-    "block_clasess": {
-      "pricing": ".pricing-card",
-      "blog": ".blog-card"
-    }
-  },
-
-  "spendflo": {
-    "name": "Spendflo",
-    "urls": {
-      "pricing": "https://www.spendflo.com/pricing",
-      "blog": "https://www.spendflo.com/blog"
-    },
-    "tracking_keywords": {
-      "blog": ["ai", "automation", "procurement"]
-    },
-    "block_clasess": {
-      "pricing": ".div-block-1174",
-      "blog": ".blogs-collection-item"
-    }
-  },
-
-  "cloudeagle": {
-    "name": "CloudEagle",
-    "urls": {
-      "pricing": "https://www.cloudeagle.ai/pricing",
-      "blog": "https://www.cloudeagle.ai/blog"
-    },
-    "tracking_keywords": {
-      "blog": ["ai", "automation", "procurement"]
-    },
-    "block_clasess": {
-      "pricing": ".frame-5",
-      "blog": ".search-card"
-    }
-  },
-
-  "trelica": {
-    "name": "Trelica",
-    "urls": {
-      "pricing": "https://www.trelica.com/pricing",
-      "blog": "https://www.trelica.com/blog"
-    },
-    "tracking_keywords": {
-      "blog": ["ai", "automation", "procurement"]
-    },
-    "block_clasess": {
-      "pricing": ".price-row-content",
-      "blog": ".card-content"
-    }
-  },
-
-  "brex": {
-    "name": "Brex",
-    "urls": {
-      "pricing": "https://www.brex.com/pricing",
-      "blog": "https://www.brex.com/blog"
-    },
-    "tracking_keywords": {
-      "blog": ["ai", "automation", "procurement"]
-    },
-    "block_clasess": {
-      "pricing": ".css-ur57ym",
-      "blog": ".css-xnby84"
-    }
-  },
-
-  "mesh": {
-    "name": "Mesh",
-    "urls": {
-      "pricing": "https://meshpayments.com/pricing",
-      "blog": "https://meshpayments.com/blog"
-    },
-    "tracking_keywords": {
-      "blog": ["ai", "automation", "procurement"]
-    },
-    "block_clasess": {
-      "pricing": ".uc_style_pricing_table_elementor_uc_items_attribute_price_label",
-      "blog": ".blog-list-item__frame"
+      "pricing": ".pricing_item_class",
+      "blog": ".blog_item_class"
     }
   }
 }
-
-

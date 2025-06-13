@@ -12,6 +12,7 @@ from datetime import datetime
 from trackers.keyw_tracker import Tracker
 from utils.changes_finder import extract_changes
 from utils.reporter import generate_markdown_report
+from utils.slack_reporter import send_report_to_slack
 
 logging.basicConfig(
     level=logging.INFO,
@@ -73,6 +74,9 @@ async def main():
         logging.info("Tracking complete. Changes saved to diff.json.")
         await generate_markdown_report(changes)
         logging.info("Weekly Markdown report saved to weekly_changes.md.")
+        today = datetime.today().strftime("%Y-%m-%d")
+        report_path = f"reports/weekly_changes_{today}.md"
+        send_report_to_slack(report_path)
     except Exception as e:
         logging.exception("An error happened in main: %s" % e)
 
