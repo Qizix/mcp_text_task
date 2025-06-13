@@ -1,0 +1,953 @@
+[
+  {
+    "name": "Ramp",
+    "all_texts": [
+      {
+        "text": "Article Behind Ramp's $13 Billion Valuation​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍​‍﻿﻿‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‍‌‌‍﻿‌‌﻿​​‌‍﻿﻿‌﻿​‍‌﻿‌​‌‍‌‌‌‍‌​​‍﻿‌​﻿‌‍​﻿‌‍​﻿​‌​﻿‌​‌‍​‍​﻿​‍​﻿​‍‌‍​‌​﻿​​​﻿‌‍​﻿​﻿‌‍​‍​﻿‌‍​﻿‌​​﻿​‌​﻿‌‍​﻿‍‌‌‍​﻿‌‍‌‌‌‍‌​‌‍​‌​﻿​​​﻿​​​﻿‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍‍​‌﻿‌‌‌‍​‍‌‌‌​‌‍﻿﻿‌﻿​​‌‍‍‌‌‍​﻿​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​‌‍﻿﻿‌﻿​‍‌﻿​﻿‌‌​​‌‍‍‌‌‍​﻿‌‍‍﻿‌‌‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿​‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌​‍‌‌​﻿​‍‌​‌‍‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‍‌‌‍﻿‌‌﻿​​‌‍﻿﻿‌﻿​‍‌﻿‌​‌‍‌‌‌‍‌​​‍﻿‌​﻿‌‍​﻿‌‍​﻿​‌​﻿‌​‌‍​‍​﻿​‍​﻿​‍‌‍​‌​﻿​​​﻿‌‍​﻿​﻿‌‍​‍​﻿‌‍​﻿‌​​﻿​‌​﻿‌‍​﻿‍‌‌‍​﻿‌‍‌‌‌‍‌​‌‍​‌​﻿​​​﻿​​​﻿‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍‍​‌﻿‌‌‌‍​‍‌‌‌​‌‍﻿﻿‌﻿​​‌‍‍‌‌‍​﻿​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​‌‍﻿﻿‌﻿​‍‌﻿​﻿‌‌​​‌‍‍‌‌‍​﻿‌‍‍﻿‌‌‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿​‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌ This milestone is a reflection of what we’ve accomplished for you, our customers, and the continued trust you place in us. Thank you for the opportunity to work hard for you and your company.​​​​‌﻿‍﻿​‍​‍‌‍﻿﻿‌﻿​‍‌‍‍‌‌‍‌﻿‌‍‍‌‌‍﻿‍​‍​‍​﻿‍‍​‍​‍‌﻿​﻿‌‍​‌‌‍﻿‍‌‍‍‌‌﻿‌​‌﻿‍‌​‍﻿‍‌‍‍‌‌‍﻿﻿​‍​‍​‍﻿​​‍​‍‌‍‍​‌﻿​‍‌‍‌‌‌‍‌‍​‍​‍​﻿‍‍​‍​‍​‍﻿﻿‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍﻿﻿‌‍‍‌‌‍﻿‍‌﻿‌​‌‍‌‌‌‍﻿‍‌﻿‌​​‍﻿﻿‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​​‍﻿﻿‌‍﻿‌‌‍﻿﻿‌‍‌​‌‍‌‌​﻿﻿‌‌﻿​​‌﻿​‍‌‍‌‌‌﻿​﻿‌‍‌‌‌‍﻿‍‌﻿‌​‌‍​‌‌﻿‌​‌‍‍‌‌‍﻿﻿‌‍﻿‍​﻿‍﻿‌‍‍‌‌‍‌​​﻿﻿‌‌‍‍‌‌‍﻿‌‌﻿​​‌‍﻿﻿‌﻿​‍‌﻿‌​‌‍‌‌‌‍‌​​‍﻿‌​﻿‌‍​﻿‌‍​﻿​‌​﻿‌​‌‍​‍​﻿​‍​﻿​‍‌‍​‌​﻿​​​﻿‌‍​﻿​﻿‌‍​‍​﻿‌‍​﻿‌​​﻿​‌​﻿‌‍​﻿‍‌‌‍​﻿‌‍‌‌‌‍‌​‌‍​‌​﻿​​​﻿​​​﻿‌‍​﻿‍﻿‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍‍​‌﻿‌‌‌‍​‍‌‌‌​‌‍﻿﻿‌﻿​​‌‍‍‌‌‍​﻿​﻿‍﻿‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​‌‍﻿﻿‌﻿​‍‌﻿​﻿‌‌​​‌‍‍‌‌‍​﻿‌‍‍﻿‌‌​﻿‌﻿‌‌‌‍​‍‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿​‌​﻿﻿﻿‌‍​‍‌‍​‌‌﻿​﻿‌‍‌‌‌‌‌‌‌﻿​‍‌‍﻿​​﻿﻿‌​‍‌‌​﻿​‍‌​‌‍‌﻿​﻿‌﻿‌​‌﻿‌‌‌‍‌​‌‍‍‌‌‍﻿﻿​‍‌‍‌‍‍‌‌‍‌​​﻿﻿‌‌‍‍‌‌‍﻿‌‌﻿​​‌‍﻿﻿‌﻿​‍‌﻿‌​‌‍‌‌‌‍‌​​‍﻿‌​﻿‌‍​﻿‌‍​﻿​‌​﻿‌​‌‍​‍​﻿​‍​﻿​‍‌‍​‌​﻿​​​﻿‌‍​﻿​﻿‌‍​‍​﻿‌‍​﻿‌​​﻿​‌​﻿‌‍​﻿‍‌‌‍​﻿‌‍‌‌‌‍‌​‌‍​‌​﻿​​​﻿​​​﻿‌‍​‍‌‍‌﻿‌​‌﻿‍‌‌﻿​​‌‍‌‌​﻿﻿‌‌‍‍​‌﻿‌‌‌‍​‍‌‌‌​‌‍﻿﻿‌﻿​​‌‍‍‌‌‍​﻿​‍‌‍‌﻿​​‌‍​‌‌﻿‌​‌‍‍​​﻿﻿‌‌‍‌‌‌‍‌​‌‍‍‌‌﻿‌​‌‍﻿﻿‌﻿​‍‌﻿​﻿‌‌​​‌‍‍‌‌‍​﻿‌‍‍﻿‌‌​﻿‌﻿‌‌‌‍​‍‌﻿‌​‌‍‍‌‌﻿‌​‌‍﻿​‌‍‌‌​﻿​‌​‍‌‍‌﻿​​‌‍‌‌‌﻿​‍‌﻿​﻿‌﻿​​‌‍‌‌‌‍​﻿‌﻿‌​‌‍‍‌‌﻿‌‍‌‍‌‌​﻿﻿‌‌﻿​​‌﻿‌‌‌‍​‍‌‍﻿​‌‍‍‌‌﻿​﻿‌‍‍​‌‍‌‌‌‍‌​​‍​‍‌﻿﻿‌",
+        "urgent": false
+      },
+      {
+        "text": "Accountant directory Discover experienced accountants and bookkeepers. Find trusted professionals to handle your financial matters with expertise and precision.",
+        "urgent": false
+      },
+      {
+        "text": "Product announcements The Ramp team releases updates every week. See the latest innovations designed to help your business save time and money.",
+        "urgent": false
+      },
+      {
+        "text": "ARTICLE The Time and Money Company: Behind Ramp's $13 Billion Valuation Today, Ramp announced a new valuation: $13 billion.This milestone is a reflection of what we’ve accomplished for you, our customers, and the continued trust you place in us. Thank you for the opportunity to work hard for you and your company.",
+        "urgent": false
+      },
+      {
+        "text": "ARTICLE Welcoming the NFL’s Saquon Barkley to the Ramp Roster Today, I’m excited to share that Philadelphia Eagles running back Saquon Barkley is joining Ramp as both an investor and the star of our first Super Bowl commercial.",
+        "urgent": false
+      },
+      {
+        "text": "ARTICLE Introducing Ramp Treasury: Most banks hope you never see this. Many banks make money by making their clients worse off – offering yield only if you lock up your cash with restrictions, minimums, transfer limits or brokerage sweeps. So businesses face a rough trade: earn 0% to keep cash accessible to pay bills, or lock it away to earn returns. Incentives of both parties - banks and customers - are misaligned.",
+        "urgent": false
+      },
+      {
+        "text": "Article How to get a business credit card with an EIN only It is possible to get a business credit card with just an EIN, but your options will be limited. Here's what you need to know.",
+        "urgent": false
+      },
+      {
+        "text": "Article What an LLC should look for in a business credit card Business credit cards offer LLC owners a way to separate their business and personal finances while building business credit history.",
+        "urgent": false
+      },
+      {
+        "text": "Article The 5 best high-limit business credit cards of June 2025 The best high-limit business credit cards combine purchasing power with other benefits, like built-in expense management.",
+        "urgent": false
+      },
+      {
+        "text": "Article 8 best corporate credit card expense management software platforms in 2025 Corporate credit card expense management software can save your company time and money. Learn more about our picks for the top tools and tips for choosing the right one for you.",
+        "urgent": false
+      },
+      {
+        "text": "Article The best business expense tracking apps and tools of 2025 The best business expense tracking apps and platforms balance a strong feature set with ease of use and cost-effectiveness. Learn more about our top 7 picks.",
+        "urgent": false
+      },
+      {
+        "text": "Article How to keep track of business expenses in 7 steps Learn more about how to keep track of business expenses with 7 easy steps, so you can set accurate budgets and get a clear picture of your company’s financial health.",
+        "urgent": false
+      },
+      {
+        "text": "Article What is an ACH payment? How it works, process, and costs ACH Payments 101: Our full guide on what an ACH payment is—from its definition to how it works, how to send one, & whether ACH transfers fit your business needs",
+        "urgent": false
+      },
+      {
+        "text": "Article The 6 best Bill.com alternatives and competitors in 2025 BILL (Bill.com) provides AP automation solutions, but it's not the only option. See our comparison of the top 6 Bill.com alternatives & competitors in 2025.",
+        "urgent": true
+      },
+      {
+        "text": "Article How to create the ideal accounts payable process The accounts payable process is how companies pay their bills accurately and on time. We outline how to build your ideal accounts payable process in this guide.",
+        "urgent": false
+      },
+      {
+        "text": "Article 7 best accounting software for small businesses in 2025 Discover the best accounting software for small businesses. Simplify bookkeeping, automate expenses, and manage cash flow with the right tools.",
+        "urgent": false
+      },
+      {
+        "text": "Article How to use AI in accounting: Guide for finance teams Interested in learning how to use AI in accounting? Discover how to automate tasks, detect fraud, and leverage predictive analytics for smarter financial decisions.",
+        "urgent": true
+      },
+      {
+        "text": "Article 7 best AI accounting software for smarter financial management Discover the best AI accounting software to automate bookkeeping, reduce errors, and improve financial management. Compare top tools for smarter business decisions.",
+        "urgent": true
+      },
+      {
+        "text": "Article Living by our own ethos: How Ramp saved time and money with Ramp Procurement Ramp's Senior FP&A Manager, Peter Mark, shares how Ramp saved 6 hours of review time per month & $350k in vendor spend by using Ramp Procurement.",
+        "urgent": true
+      },
+      {
+        "text": "Article Top 7 Mercury alternatives and competitors in 2025 Did Mercury close your account? Here are the top Mercury Bank alternatives in 2025, with Ramp as the best choice in comparison to Novo, Relay, Brex and more.",
+        "urgent": false
+      },
+      {
+        "text": "Article What is procure-to-pay: A full guide on how it works in procurement Learn what procure-to-pay (P2P) is, how it streamlines procurement workflows, and its key steps, from requisition to payment, in this comprehensive guide.",
+        "urgent": true
+      },
+      {
+        "text": "Article Introducing Ramp Treasury: Most banks hope you never see this. Many banks make money by making their clients worse off – offering yield only if you lock up your cash with restrictions, minimums, transfer limits or brokerage sweeps. So businesses face a rough trade: earn 0% to keep cash accessible to pay bills, or lock it away to earn returns. Incentives of both parties - banks and customers - are misaligned.",
+        "urgent": false
+      },
+      {
+        "text": "Article What is treasury management? Learn what treasury management is, its key functions, and how it helps businesses manage liquidity, optimize cash flow, and mitigate financial risks.",
+        "urgent": false
+      },
+      {
+        "text": "Article 6 things to know about treasury management systems (TMS) Learn what treasury management systems are, how they work, and their main functions and benefits for businesses.",
+        "urgent": true
+      }
+    ],
+    "pricing_text": [
+      "Free $0/mo/user",
+      "Plus $15/mo/user + Platform fee based on team size Save 20% with annual billing",
+      "Enterprise Custom Annual billing"
+    ]
+  },
+  {
+    "name": "Torii",
+    "all_texts": [
+      {
+        "text": "Feature Spotlight How to Empower Your Organization with an Application Catalog June 5, 2025",
+        "urgent": false
+      },
+      {
+        "text": "Access Review User Access Reviews: Say Goodbye to Spreadsheets May 19, 2025",
+        "urgent": false
+      },
+      {
+        "text": "Security 7 Features to Help IT Improve Governance, Risk, and Compliance (GRC) May 15, 2025",
+        "urgent": false
+      },
+      {
+        "text": "Artificial Intelligence Artificial Intelligence for SaaS: How Torii Leverages AI May 9, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Automated SaaS Management Next-Gen Automation: Torii’s Exciting Workflow Experience May 8, 2025",
+        "urgent": true
+      },
+      {
+        "text": "SaaS-management From Chaos to Control: Making IT Proactive Against SaaS and AI May 6, 2025",
+        "urgent": true
+      },
+      {
+        "text": "AI Introducing Model Context Protocol in Torii April 18, 2025",
+        "urgent": true
+      },
+      {
+        "text": "AI What is Model Context Protocol (MCP)? April 16, 2025",
+        "urgent": true
+      },
+      {
+        "text": "IT Management How To Build a Resilient IT Operations Tech Stack March 27, 2025",
+        "urgent": false
+      },
+      {
+        "text": "G2 G2 Spring Report: Torii Leads All SMPs and is Awarded Top 50 Best Software March 25, 2025",
+        "urgent": false
+      },
+      {
+        "text": "Customizable SaaS Dashboards: Software Insights For Your Intelligence Center February 17, 2025",
+        "urgent": false
+      },
+      {
+        "text": "Security 12 Cybersecurity Trends for 2025: An Expert-Sourced Consensus February 4, 2025",
+        "urgent": false
+      }
+    ],
+    "pricing_text": [
+      "Basic For teams who need control and visibility $2.5 Employee / Month Try For Free * Total $250 / month, Billed annually Basic includes: Browser extension and SSO visibility Unlimited direct integration Expense reports & insights License & cost saving insights"
+    ]
+  },
+  {
+    "name": "Vertice",
+    "all_texts": [
+      {
+        "text": "SaaS Renewal Best Practices: Using Data to Optimize Negotiations Secure the best possible terms and pricing on every SaaS renewal, with these proven insights and strategies. Aimee Manning May 22, 2025",
+        "urgent": true
+      },
+      {
+        "text": "SaaS Renewal Best Practices: Using Data to Optimize Negotiations Secure the best possible terms and pricing on every SaaS renewal, with these proven insights and strategies. Aimee Manning May 22, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Software Renewal Management: How to Avoid Auto-Renewal Traps Strategies for keeping on top of your software renewals and eliminating wasted spend Aimee Manning April 24, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Software Renewal Management: How to Avoid Auto-Renewal Traps Strategies for keeping on top of your software renewals and eliminating wasted spend Aimee Manning April 24, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Benchmarking in procurement: Leveraging data for smarter SaaS negotiations A deep dive into what benchmarking in procurement entails, and how to leverage these insights for greater savings and more informed vendor selection. Aimee Manning April 22, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Benchmarking in procurement: Leveraging data for smarter SaaS negotiations A deep dive into what benchmarking in procurement entails, and how to leverage these insights for greater savings and more informed vendor selection. Aimee Manning April 22, 2025",
+        "urgent": true
+      },
+      {
+        "text": "SaaS Shrinkflation: From chocolate bars to software SaaS prices are on the increase, but squeezing your budget from the other end is SaaS shrinkflation - meaning you're paying more and getting less than before Aimee Manning February 10, 2025",
+        "urgent": true
+      },
+      {
+        "text": "SaaS Shrinkflation: From chocolate bars to software SaaS prices are on the increase, but squeezing your budget from the other end is SaaS shrinkflation - meaning you're paying more and getting less than before Aimee Manning February 10, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Key SaaS inflation stats: How to mitigate in 2025 Understanding the true impact of SaaS inflation and what it means for your business Aimee Manning January 28, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Key SaaS inflation stats: How to mitigate in 2025 Understanding the true impact of SaaS inflation and what it means for your business Aimee Manning January 28, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Why you should be automating your procurement process Manual processes are stifling procurement efficiency and value - it's time to automate Liv O'Hern June 10, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Why you should be automating your procurement process Manual processes are stifling procurement efficiency and value - it's time to automate Liv O'Hern June 10, 2025",
+        "urgent": true
+      },
+      {
+        "text": "How Indirect Sourcing Drives Strategic Value in Procurement Indirect sourcing is often overlooked by procurement, despite this area of spending having huge savings potential. Aimee Manning May 27, 2025",
+        "urgent": true
+      },
+      {
+        "text": "How Indirect Sourcing Drives Strategic Value in Procurement Indirect sourcing is often overlooked by procurement, despite this area of spending having huge savings potential. Aimee Manning May 27, 2025",
+        "urgent": true
+      },
+      {
+        "text": "6 short-term tactics to mitigate Vendor Lock-In Get peer-led advice on how to mitigate the impact of potentially restrictive contracts that you could get stuck in. Matt Parsloe May 8, 2025",
+        "urgent": false
+      },
+      {
+        "text": "6 short-term tactics to mitigate Vendor Lock-In Get peer-led advice on how to mitigate the impact of potentially restrictive contracts that you could get stuck in. Matt Parsloe May 8, 2025",
+        "urgent": false
+      },
+      {
+        "text": "Building on McKinsey's vision: Actionable steps for achieving software procurement excellence A breakdown of the steps you can take to drive procurements value, building on the findings from McKinsey's procurement software excellence study. Aimee Manning March 27, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Building on McKinsey's vision: Actionable steps for achieving software procurement excellence A breakdown of the steps you can take to drive procurements value, building on the findings from McKinsey's procurement software excellence study. Aimee Manning March 27, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Why the procurement metrics you have aren't enough Only using surface level procurement metrics means missing out on opportunities to fix and improve processes Matt Parsloe February 13, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Why the procurement metrics you have aren't enough Only using surface level procurement metrics means missing out on opportunities to fix and improve processes Matt Parsloe February 13, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Vertice ranks Number 1 on the FT-backed Sifted 100 Continuing an outstanding 2025. Eldar Tuvey March 26, 2025",
+        "urgent": false
+      },
+      {
+        "text": "Vertice ranks Number 1 on the FT-backed Sifted 100 Continuing an outstanding 2025. Eldar Tuvey March 26, 2025",
+        "urgent": false
+      },
+      {
+        "text": "$50M raised to simplify procurement Our raise and what's next Eldar Tuvey January 22, 2025",
+        "urgent": true
+      },
+      {
+        "text": "$50M raised to simplify procurement Our raise and what's next Eldar Tuvey January 22, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Tableau pricing: What it costs and your options for a discount A look at what you can realistically expect to pay for a Tableau subscription Aimee Manning March 31, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Tableau pricing: What it costs and your options for a discount A look at what you can realistically expect to pay for a Tableau subscription Aimee Manning March 31, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Airtable Pricing: What it Costs and How to Get a Discount Proven guidance for getting the best possible deal on your Airtable purchase or renewal, with a look at what other companies are paying. Aimee Manning March 20, 2025",
+        "urgent": true
+      },
+      {
+        "text": "Airtable Pricing: What it Costs and How to Get a Discount Proven guidance for getting the best possible deal on your Airtable purchase or renewal, with a look at what other companies are paying. Aimee Manning March 20, 2025",
+        "urgent": true
+      },
+      {
+        "text": "What the new AWS marketplace rules mean for you AWS is changing how products qualify towards committed spend. Here's everything you need to know. Matt Parsloe May 13, 2025",
+        "urgent": false
+      },
+      {
+        "text": "What the new AWS marketplace rules mean for you AWS is changing how products qualify towards committed spend. Here's everything you need to know. Matt Parsloe May 13, 2025",
+        "urgent": false
+      }
+    ],
+    "pricing_text": [
+      "For Annual SaaS Spend $500K-$1M $1M-$2.5M $2.5M-$5M $5M+ Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Standard Professional Premium Enterprise Tier From $40,000 $55,000 $90,000 $155,000 With Guaranteed Savings $80,000 $135,000 $315,000 $620,000",
+      "For Annual SaaS Spend €500K-€1M €1M-€2.5M €2.5M-€5M €5M+ Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Standard Professional Premium Enterprise Tier From €40,000 € 55,000 € 90,000 €155,000 With Guaranteed Savings €80,000 €137,500 €315,000 €620,000",
+      "For Annual SaaS Spend £500K-£1M £1M-£2.5M £2.5M-£5M £5M+ Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Standard Professional Premium Enterprise Tier From £40,000 £55,000 £90,000 £155,000 With Guaranteed Savings £80,000 £135,000 £315,000 £620,000",
+      "For Annual SaaS Spend A$500K-A$1M A$1M-A$2.5M A$2.5M-A$5M A$5M+ Thank you! Your submission has been received! Oops! Something went wrong while submitting the form. Standard Professional Premium Enterprise Tier From A$40,000 A$ 55,000 A$ 90,000 A$155,000 With Guaranteed Savings A$80,000 A$135,000 A$315,000 A$620,000",
+      "For Pricing Information Contact Sales",
+      "Min. Annual Cloud Spend $ £ A$ € 250K Starting From $ £ A$ € 20,000"
+    ]
+  },
+  {
+    "name": "Spendflo",
+    "all_texts": [
+      {
+        "text": "Feature release Launching: AI Procurement, Done For You Discover how Spendflo built AI-powered procurement agents that reduce manual work, eliminate surprise renewals, and guarantee savings—with experts guiding every Learn More",
+        "urgent": true
+      },
+      {
+        "text": "Feature release Launching: AI Procurement, Done For You Discover how Spendflo built AI-powered procurement agents that reduce manual work, eliminate surprise renewals, and guarantee savings—with experts guiding every",
+        "urgent": true
+      },
+      {
+        "text": "Buying Supplier Enablement Explained: Strategy, Benefits, and Common Challenges Learn what supplier enablement is, why it matters, and how to build a strategy that works. Explore common challenges and ways to improve procurement efficiency.",
+        "urgent": true
+      },
+      {
+        "text": "Buying Invoice Management Simplified: Cut Costs, Avoid Delays, and Boost Cash Flow Explore how invoice management can cut costs, speed up payments, and improve vendor relations using automation and smart workflows.",
+        "urgent": true
+      },
+      {
+        "text": "Buying Mastering Supplier Negotiation Strategy: 12 Proven Techniques for Procurement Success Discover 12 proven supplier negotiation strategies to lower costs, improve contract terms, and build stronger vendor relationships.",
+        "urgent": true
+      },
+      {
+        "text": "Buying Top 14 IT Procurement Process Best Practices to Streamline Buying and Cut Costs Explore 14 IT procurement best practices that help reduce costs, eliminate inefficiencies, and improve vendor management.",
+        "urgent": true
+      },
+      {
+        "text": "Buying Addressable Spend Explained: How to Identify, Calculate, and Maximize It Understand what addressable spend is and why it matters. Learn how to calculate, identify, and maximize it through strategic procurement and automation tools.",
+        "urgent": true
+      },
+      {
+        "text": "Buying Top 10 Contract Lifecycle Management Software in 2025 Explore the top 10 contract lifecycle management software solutions of 2025. Learn how these tools help streamline contract processes and enhance visibility.",
+        "urgent": false
+      },
+      {
+        "text": "Buying Procurement Governance – Complete Guide in 2025 This guide covers key principles, implementation frameworks, challenges, and best practices to strengthen your procurement processes.",
+        "urgent": true
+      },
+      {
+        "text": "Buying The Ultimate Guide to Sustainable Procurement Understand its importance, benefits, implementation strategies, and how Spendflo helps businesses drive ESG-focused sourcing.",
+        "urgent": true
+      }
+    ],
+    "pricing_text": [
+      "Intake & Procurement Orchestration Use Spendflo's power-packed platform to streamline your procurement from intake to PO. Starts from $1,000 /mo",
+      "Managed Procurement Unlock fully managed procurement with Spendflo's AI-native platform and services. Starts from $3,000 /mo"
+    ]
+  },
+  {
+    "name": "CloudEagle",
+    "all_texts": [
+      {
+        "text": "SaaS Research SaaS Management What is Identity Governance and Administration (IGA)? Identity Governance and Administration (IGA) explained: Automate user provisioning, enforce access policies, and maintain regulatory compliance effort",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management The Ultimate Guide To User Access Reviews: Checklist and Best Practices Learn how to automate user access reviews to enhance security, ensure compliance, and streamline managing permissions across your organization.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management What is Identity and Access Governance? Learn what Identity and Access Governance (IAG) is and how it helps control user access, ensure compliance, and protect enterprise data.",
+        "urgent": false
+      },
+      {
+        "text": "Spend Management SaaS Management Proven Strategies to Prevent SaaS Sprawl in Rapid-Growth Tech Companies Learn the proven strategies to prevent SaaS sprawl, cut waste, and regain visibility in fast-scaling tech companies.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management What Is Shadow AI and Why It’s a Growing Compliance Risk Discover what shadow AI is, why it’s a compliance risk in 2025, and how to detect and manage shadow AI apps in your SaaS stack effectively.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management Shadow IT in Healthcare: Identifying and Securing Unauthorized SaaS Applications Shadow IT is putting your healthcare data at risk. Learn how to spot and secure unauthorized SaaS apps before it’s too late.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management What is Centralized Identity Management? Discover how Centralized Identity Management streamlines user access, enhances security, and simplifies control across all your apps from one place.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management The True Cost of an Unsecured Endpoint: Risk Analysis for Modern Enterprises Discover the hidden costs and risks of an unsecured endpoint. Learn how to protect your enterprise from modern cybersecurity threats.",
+        "urgent": false
+      },
+      {
+        "text": "Asset Management SaaS Management 7 IT Vendor Management Best Practices To Follow Master 7 essential IT vendor management best practices to reduce costs, improve security, eliminate shadow IT, and transform vendor relationships.",
+        "urgent": false
+      },
+      {
+        "text": "Procurement SaaS Management 6 Smart IT Governance and Strategy for Startups Discover 6 smart IT governance strategies tailored for startups to improve security, streamline operations, and scale efficiently.",
+        "urgent": true
+      },
+      {
+        "text": "Asset Management SaaS Management How To Select the Best Software for IT Asset Management Discover how to choose the best IT asset management software for your company. Know some proven tips to make an informed decision.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management Automated Access Certification for HIPAA Compliance in Healthcare Organizations Don’t risk HIPAA violations. Automate access certification to secure healthcare data and ensure compliance now.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management Identity Governance for High-Risk Financial SaaS Applications Identity Governance for high-risk financial SaaS apps: Control access, reduce risk, and ensure compliance with best practices.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management 5 Cloud Security Best Practices For CIOs Most CIOs are failing at cloud security. Learn the hard truths and essential practices to finally protect your data and stop costly breaches.",
+        "urgent": true
+      },
+      {
+        "text": "SaaS Management Security How AI is Transforming Identity Governance and Administration (IGA)? Discover how AI is revolutionizing Identity Governance and Administration (IGA) by automating access decisions, enhancing compliance.",
+        "urgent": true
+      },
+      {
+        "text": "Spend Management SaaS Management How to Reduce Tail Spend and Increase ROI Find out how you can reduce tail spend and save more on indirect purchases. Get actionable tips to identify gaps, streamline buying, and avoid waste.",
+        "urgent": true
+      },
+      {
+        "text": "Spend Management SaaS Management Tail Spend Management: Benefits, Challenges and Best Practices Learn the process of effective tail spend management. Know the benefits, common challenges, and best practices for better tail spend analysis.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management Access Control for Developer SaaS Applications: Preventing Unauthorized Access Discover how robust access control for developer SaaS applications can block unauthorized access and safeguard sensitive data.",
+        "urgent": false
+      },
+      {
+        "text": "Asset Management SaaS Management Top 10 SaaS License Tracking Tools for 2025 Discover the top 10 SaaS license tracking tools for 2025 to help your business monitor usage, reduce waste, manage renewals, and optimize software spe",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management 5 Endpoint Management Mistakes That Leave Your Organization Vulnerable Avoid these 5 common endpoint management mistakes that put your security and network at risk.",
+        "urgent": false
+      },
+      {
+        "text": "SaaS Management SaaS Research The Business Case for Appointing a Chief Identity Officer (CIDO) Explore the growing need for a Chief Identity Officer (CIDO) in modern enterprises. Learn how a CIDO enhances security, compliance, and efficiency.",
+        "urgent": false
+      },
+      {
+        "text": "Asset Management SaaS Management How Often Should You Consider IT Asset Audits? A Data-Driven Approach Learn how often to perform IT asset audits to reduce SaaS waste, stay compliant, and cut costs. See how you can optimize your software stack.",
+        "urgent": false
+      },
+      {
+        "text": "Asset Management SaaS Management IT Asset Management in Higher Education: Tracking SaaS and IT Assets Across Campuses Why IT asset management in higher education is crucial to cut costs, ensure compliance, & security.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management Endpoint Management for Healthcare: Balancing Security and Accessibility Secure healthcare endpoints while ensuring access. Learn challenges, components, and best practices.",
+        "urgent": false
+      },
+      {
+        "text": "Asset Management SaaS Management 7 Best IT Asset Management Systems in 2025 Explore the 7 best IT asset management systems in 2025 to track, optimize, and control your software and hardware assets efficiently.",
+        "urgent": false
+      },
+      {
+        "text": "Asset Management SaaS Management Why Spreadsheets Fail as IT Asset Management Tools? Learn why spreadsheets fall short for IT asset management and how modern tools offer better accuracy, automation, and visibility.",
+        "urgent": true
+      },
+      {
+        "text": "Asset Management SaaS Management 5 IT Asset Management Metrics Every CIO Should Track Discover the five essential IT asset management metrics every CIO should monitor to reduce SaaS waste and improve compliance.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management 4 Efficient Endpoint Management Strategies to Implement for Your Company Struggling with scattered devices and security risks? Discover four proven endpoint management strategies to protect the company's data.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management What is Endpoint Security and Why CIOs Must Pay Attention To it Learn why endpoint security is now a strategic priority for CIOs. Explore how platforms like CloudEagle.ai help secure your SaaS ecosystem.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management How does CloudEagle.ai's Gen AI transform IAM with SaaSPilot? Discover how CloudEagle.ai’s Gen AI and SaaSPilot simplify IAM with automated access control, license management, and real-time insights.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management Non-Human Identity Management is Hard..But It Has To Happen Discover why managing non-human identities in SaaS is critical, the risks they pose, and how to secure them with best practices.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management Top 7 Endpoint Security Risks You Must be Aware of in 2025 Stay ahead of endpoint security risks. Understand the top 7 threats and discover best practices to safeguard your organization's digital assets.",
+        "urgent": false
+      },
+      {
+        "text": "SaaS Research Security What is Cloud Security Posture Management (CSPM)? Learn what Cloud Security Posture Management (CSPM) is, how it works, and why it's essential for securing modern cloud environments.",
+        "urgent": false
+      },
+      {
+        "text": "SaaS Management Security The Not So Bright Side of AI: Why You Must Be Cautious About It AI promises efficiency and innovation, but unchecked usage can lead to data breaches, compliance violations, and ethical pitfalls.",
+        "urgent": true
+      },
+      {
+        "text": "SaaS Management Security Why Enterprises Should Invest In Endpoint Management Software? Learn why endpoint management software is essential for securing devices, ensuring compliance, and streamlining IT operations across your enterprise.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management Telecom IT Asset Management in 2025 Discover how Telecom IT Asset Management is evolving in 2025 with smarter tools, SaaS visibility, and AI-driven governance.",
+        "urgent": true
+      },
+      {
+        "text": "SaaS Management Security Identity Governance Challenges During Mergers and Acquisitions: What CISOs Must Know Discover the top identity governance challenges CISOs face during mergers and acquisitions from identity sprawl to access risks!",
+        "urgent": false
+      },
+      {
+        "text": "Asset Management SaaS Management 7 Warning Signs Your IT Asset Management Strategy Needs an Upgrade Spot the red flags of an outdated IT asset management strategy, and learn how to improve visibility, cut costs, and reduce risk.",
+        "urgent": false
+      },
+      {
+        "text": "Asset Management SaaS Management The Hidden Costs of Unmanaged IT Assets: What You're Really Paying Discover how unmanaged IT assets quietly drain your SaaS budget and increase risks, and how the right ITAM strategy can fix it.",
+        "urgent": true
+      },
+      {
+        "text": "Asset Management SaaS Management Why Endpoint Compliance Is Critical in Telecom: A SaaS-Centric Perspective Discover why endpoint compliance is vital for telecom companies managing sprawling SaaS ecosystems. Learn how to secure, monitor, and govern endpoints",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management How Adaptive Access Stops 90% of Unauthorized Access Adaptive access control makes security smarter, granting access based on real-time context, behavior, and risk, not just static rules or roles.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management Top Endpoint Management Challenges for CIOs and IT Teams Discover top endpoint management challenges and solutions to secure, monitor, and comply across all devices.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management Why Endpoint Management Should Be Part of Your IGA Strategy? Unmanaged endpoints expose identity gaps. Learn why IGA needs device security for true protection.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management How CIOs Should Select Endpoint Management Tools Discover how CIOs can choose endpoint management tools to enhance security, compliance, and IT efficiency.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management 7 Best OneLogin Alternatives for 2025 (Secure + Budget-Friendly) Explore the best OneLogin alternatives - compare secure, scalable IAM tools that are easier to use and better aligned with your budget.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management PCI DSS Audit: Everything You Need to Know to Keep Your Company Secure Learn what a PCI DSS audit is, why it matters, and how to prepare your company to stay compliant and secure with CloudEagle.ai.",
+        "urgent": true
+      },
+      {
+        "text": "SaaS Management Security A Quick Guide on Autonomous Endpoint Management Discover how autonomous endpoint management, powered by AI and automation, helps modern enterprises secure, optimize, and scale device operations.",
+        "urgent": true
+      },
+      {
+        "text": "SaaS Management Security How AIOps Enables Proactive Outage Detection in Modern SaaS? Discover how AIOps empowers modern SaaS platforms with proactive outage detection by leveraging real-time analytics.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management 7 Endpoint Management Best Practices to Follow in 2025 Discover 7 proven endpoint management best practices to protect your company’s devices, data, and networks.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management Everything You Need to Know About an ISO 27001 Audit ISO 27001 audit guide: Learn what to expect, how to prepare, and key steps to ensure your company meets compliance without delays or surprises.",
+        "urgent": false
+      },
+      {
+        "text": "SaaS Management Spend Management SaaS Management Best Practices To Follow in 2025 Discover the top SaaS management best practices for 2025. Learn how to optimize your SaaS stack to increase efficiency and cost savings.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management Why Are IT Leaders Automating IGA with CloudEagle.ai? Discover why IT leaders are turning to CloudEagle.ai to automate Identity Governance and Administration (IGA) for smarter access control.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management SOC 2 Audit: The Complete Guide to Getting It Right in 2025 Learn how to prepare for and pass your SOC 2 audit in 2025. You will know everything to stay compliant and audit-ready",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management Why Traditional IGA Tools Fall Short & How CloudEagle.ai Solves the Gaps? Learn how CloudEagle.ai fills the gaps where traditional IGA tools fall short with automation, visibility, and smart access control.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management Why CIOs Are Moving from IAM to a Full Identity Governance Solution? Discover why CIOs are shifting from basic IAM to full Identity Governance solutions like CloudEagle.ai for better control, security, and compliance.",
+        "urgent": true
+      },
+      {
+        "text": "SaaS Management Security CloudEagle.ai Partners with HCL BigFix to Transform Enterprise IT Asset Management CloudEagle.ai and HCL BigFix partner to unify SaaS and endpoint management—boosting visibility, security, and cost savings for enterprises.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management Why IT and Security Teams Burn Out—And How Automation Can Help? Discover why IT and security teams face burnout—and how automation can ease the load and boost efficiency.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management The Most Common Causes of Data Breaches in 2025—And How to Prevent Them? Explore the top causes of data breaches in 2025—and how to stop them before they happen.",
+        "urgent": false
+      },
+      {
+        "text": "SaaS Management What Are AIOps? A Complete Guide to AI for IT Operations Discover how AI powers smarter, faster IT operations and outage prevention.",
+        "urgent": true
+      },
+      {
+        "text": "Asset Management SaaS Management Why Identity Sprawl Is a Governance Nightmare and How to Prevent It? Discover why identity sprawl threatens IT governance and security, and learn effective strategies to control access, reduce risk.",
+        "urgent": false
+      },
+      {
+        "text": "SaaS Management Asset Management 5 Autonomous Endpoint Management Best Practices in 2025 Discover 5 best practices for autonomous endpoint management in 2025, from AI-driven policy enforcement to Zero Trust and self-healing automation.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Research What is PCI DSS and Why Is It Necessary For Enterprises? Learn what PCI DSS is, why it matters for businesses handling card payments, and explore a detailed compliance checklist to meet security standards.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management The Ultimate Guide to HIPAA Compliance Audit in 2025 Know all about HIPAA compliance audit step by step in 2025. Learn what to expect, prepare your policies, and ensure your company stays audit‑ready.",
+        "urgent": false
+      },
+      {
+        "text": "SaaS Management Security Beyond MFA: Adaptive Authentication and the Future of Access Control Explore how adaptive authentication goes beyond MFA to enhance access control with real-time context, AI, and Zero Trust principles.",
+        "urgent": true
+      },
+      {
+        "text": "SaaS Management Security Authentication vs. Authorization: Why Knowing the Difference Matters in Modern SaaS Security Understand the key differences between authentication and authorization to strengthen your SaaS security",
+        "urgent": false
+      },
+      {
+        "text": "SaaS Management Contract Management 5 Best SaaS Renewal Management Software in 2025 Discover the top 5 SaaS renewal management software solutions of 2025. Streamline your subscription renewals and maximize efficiency.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management Best SailPoint Alternatives for Identity Governance Explore the best SailPoint alternatives for identity governance to manage access, ensure compliance and strengthen security across your organization.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management Former Employees Still Have Access to SaaS Apps—How CloudEagle.ai Solves This? Learn how CloudEagle.ai prevents former employees from retaining access to SaaS apps after leaving.",
+        "urgent": true
+      },
+      {
+        "text": "Asset Management SaaS Management The Do’s and Don’ts of Effective Asset Tracking Discover the do’s and don’ts of effective asset tracking to help you reduce loss, boost accuracy, and streamline operations across your company.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management SOX Compliance Checklist in 8 Steps: A Complete Guide for IT Teams Ensure your IT team meets SOX requirements with this 8-step compliance checklist. Learn how to manage access and prepare for audits.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management The Best Access Management Solutions for Enterprises Using the best access management tools will help you prevent data breaches. Know the best access management solutions for enterprises in 2025.",
+        "urgent": false
+      },
+      {
+        "text": "SaaS Management Security Top IGA Tools for Enhanced Identity Management Explore top IGA tools for identity management, secure access, and compliance. Streamline governance and enhance security with advanced IGA solutions.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management 6 Identity Management Best Practices for 2025 Discover six essential identity management best practices for enhancing security and efficiency in your organization. Read now!",
+        "urgent": false
+      },
+      {
+        "text": "SaaS Management Spend Management 10 Best Configuration Management Tools in 2025 See the top 10 configuration management tools in 2025 to efficiently manage your configurations and streamline IT operations.",
+        "urgent": false
+      },
+      {
+        "text": "SaaS Management Security CloudEagle.ai vs. SailPoint: Managing SaaS Access with Automation & AI Compare CloudEagle.ai vs. SailPoint to find the smarter SaaS access solution with AI, automation, and compliance at the core.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management Non-Human Identities: The Silent Security Risk in Your SaaS Stack Non-human identities in SaaS are a hidden risk. Learn how to detect, manage, and secure them before they cause a breach.",
+        "urgent": false
+      },
+      {
+        "text": "SaaS Management Security CloudEagle.ai vs. Coupa: Why You Need a Dedicated SaaS Management Platform? Find out why CloudEagle.ai is built for SaaS-first teams—offering more control and optimization than Coupa’s procurement-focused approach.",
+        "urgent": true
+      },
+      {
+        "text": "Procurement SaaS Management GitHub Pricing Guide: Endpoint Security Costs & Licensing Options Explore the GitHub pricing guide, endpoint security costs, and licensing options. Compare GitHub pricing and find the best plan.",
+        "urgent": true
+      },
+      {
+        "text": "Procurement SaaS Management Miro Pricing Guide: Costs, Features, and Discounts Explained Discover the best Miro pricing guide for your team! Explore Miro pricing plans, features, and expert negotiation tips to maximize savings.",
+        "urgent": true
+      },
+      {
+        "text": "Procurement SaaS Management Salesforce Pricing Guide: The Ultimate Guide to Plans and Costs Discover Salesforce pricing plans, features, and costs in this ultimate Salesforce pricing guide.",
+        "urgent": true
+      },
+      {
+        "text": "Procurement Spend Management 7 Best Tail Spend Management Solutions in 2025 Compare the top 7 tail spend management tools for better visibility, cost savings, and procurement control. See which one fits your company’s needs.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management Zero Standing Privilege: What It Is and Why It Matters More Than Ever Discover what Zero Standing Privilege (ZSP) means, why it’s a game-changer for SaaS security, and how it helps prevent insider threats.",
+        "urgent": false
+      },
+      {
+        "text": "Procurement SaaS Management Dropbox Pricing Guide Breakdown: Plans, Features & Costs for Identity Management Explore Dropbox pricing plans, features, and costs for identity management. Compare options, discover key benefits with the Dropbox pricing guide.",
+        "urgent": true
+      },
+      {
+        "text": "Procurement SaaS Management Airtable Pricing Guide Explained: Free vs. Pro vs. Premium – Which Plan Do You Need? Compare Airtable's plans with the Airtable pricing guide to find the best fit for your company. Explore features, Airtable pricing, and expert tips.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management Why Privilege Creep Is the New Insider Threat (And What to Do About It) Privilege creep is the hidden insider threat. Learn how to detect, prevent, and secure your organization from excessive access risks.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management Access Reviews for SaaS: What Every IT Leader Must Know in 2025 Learn why Access Reviews are crucial for SaaS security in 2025. Discover how IT leaders can streamline compliance, reduce risk, & manage user access.",
+        "urgent": false
+      },
+      {
+        "text": "Procurement SaaS Management Calendly Pricing Guide: How Much Does It Cost & Is It Worth It? Know Calendly pricing plans, features, and costs with Calendly pricing guide to find the best fit for your needs",
+        "urgent": true
+      },
+      {
+        "text": "Procurement SaaS Management DocuSign Pricing Guide Explained: Costs, Features & Enterprise Plans Discover the best DocuSign pricing guide for your company. Explore DocuSign pricing plans and key features to save money.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management 8 Best Single Sign On Tools in 2025 Single sign-on (SSO) allows users to log in to multiple apps with one set of credentials. Find out the top 8 SSO tools for your business in 2025.",
+        "urgent": false
+      },
+      {
+        "text": "SaaS Management Procurement Why Should Organizations Use SaaS Management Software In 2025? Discover the benefits of a SaaS management software: streamline stack, optimize spend, automate processes, and gain better visibility and control.",
+        "urgent": true
+      },
+      {
+        "text": "SaaS Management Spend Management Top IGA Trends That CIOs Cannot Overlook in 2025 Learn about the top IGA trends for CIOs in 2025, highlighting security updates, innovations, and best practices.",
+        "urgent": false
+      },
+      {
+        "text": "Security SaaS Management HIPAA Violation Examples: What to Avoid & How to Stay Compliant Learn about common HIPAA violations, real-world case studies, and how to stay compliant.",
+        "urgent": false
+      },
+      {
+        "text": "Procurement SaaS Management Figma Pricing Guide: Understanding Plans, Features & Enterprise Costs Discover the ultimate Figma pricing guide! Compare Figma pricing plans, features, and enterprise costs to choose the best option for your team.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management 6 SaaS Security Measures You Must Focus in 2025 Learn why securing your SaaS is vital for your business. This article outlines six key security measures for 2025 to safeguard your business.",
+        "urgent": false
+      },
+      {
+        "text": "SaaS Management Spend Management How to Streamline FinOps with CloudEagle.ai in 2025? Discover the power of CloudEagle.ai in simplifying FinOps processes, driving cost efficiency and financial visibility in 2025.",
+        "urgent": true
+      },
+      {
+        "text": "Procurement SaaS Management Asana Pricing Guide: Finding the Best Plan for Your Team Compare Asana pricing plans with Asana pricing guide to find the right fit for your team. Explore features, costs, and value.",
+        "urgent": true
+      },
+      {
+        "text": "Procurement SaaS Management Jira Pricing Guide: Choosing the Right Plan for Your Team Find the best Jira pricing guide for your team. Compare Jira pricing plans, features, and benefits to choose the right option.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management ISO 27001 vs. SOC 2 vs. GDPR: Key Differences Explained Know all the differences between ISO 27001 vs SOC 2 vs GDPR and know which one to stay compliant for your company.",
+        "urgent": true
+      },
+      {
+        "text": "Security SaaS Management ISO 27001 Controls: A Complete Guide to Annex A Controls Know all about ISO 27001 controls and the importance of Annex A controls for your company.",
+        "urgent": false
+      }
+    ],
+    "pricing_text": [
+      "Starting from $2,500 /month based on number of employees",
+      "Starting from $2,000 /month based on number of employees",
+      "Starting from $2,500 /month based on number of employees"
+    ]
+  },
+  {
+    "name": "Trelica",
+    "all_texts": [],
+    "pricing_text": [
+      "Pricing on request",
+      "Unlimited",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Unlimited",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Unlimited",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "Priority",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "24-hr responses"
+    ]
+  },
+  {
+    "name": "Brex",
+    "all_texts": [
+      {
+        "text": "",
+        "urgent": false
+      },
+      {
+        "text": "",
+        "urgent": false
+      },
+      {
+        "text": "June 2025 Brex data: Anthropic tops startup AI spend See all of the top SaaS and AI tools among startups and enterprises in May 2025.",
+        "urgent": true
+      },
+      {
+        "text": "May 2025 10 procurement trends shaping 2025 corporate strategies Get expert advice for increasing procurement efficiency through AI, smart payments, sustainable sourcing, and more.",
+        "urgent": true
+      },
+      {
+        "text": "May 2025 Invoice processing best practices for your AP team Learn how Brex customers process invoices faster and accelerate business growth with AI-powered automation.",
+        "urgent": true
+      },
+      {
+        "text": "May 2025 From competitors to co-creators: Introducing Brex for Zip Discover why Brex and Zip decided to revolutionize enterprise procurement together, combining Brex’s global cards and Zip’s AI-powered orchestration.",
+        "urgent": true
+      },
+      {
+        "text": "May 2025 How Brex accelerates accounting from transaction to close See how we built the Brex platform to uniquely automate accounting and drive business efficiency.",
+        "urgent": false
+      },
+      {
+        "text": "May 2025 Why modern corporate cards are dethroning Amex Discover 5 reasons why today's finance leaders are trading Amex for smart corporate cards like Brex.",
+        "urgent": false
+      },
+      {
+        "text": "May 2025 6 B2B payment strategies to maximize efficiency Get expert advice on how to use ACH transfers, wires, and cards to improve efficiency.",
+        "urgent": false
+      },
+      {
+        "text": "May 2025 Spend outside the US highly volatile post-tariffs in a few countries; CFOs dial back optimism Card activity for Brex customers based in a few countries outside the US fluctuated after the April tariff announcements. See the changes.",
+        "urgent": false
+      },
+      {
+        "text": "April 2025 Save time and get paid faster with Brex invoicing Skip the middleman and get paid faster with invoicing built into your Brex business account.",
+        "urgent": true
+      },
+      {
+        "text": "May 2025 The road to AAA: What we learned building credit at Brex Brex's COO shares an inside look at Brex's hard-earned lessons in scaling capital markets, all the way to AAA, the highest rating in the industry. Camilla Matias Morais",
+        "urgent": true
+      },
+      {
+        "text": "January 2025 Design as a catalyst Brex's Chief Design Officer reflects on how giving design a true seat at the table is a catalyst fueling Brex’s next chapter. Matt Bango",
+        "urgent": false
+      },
+      {
+        "text": "",
+        "urgent": false
+      },
+      {
+        "text": "",
+        "urgent": false
+      },
+      {
+        "text": "",
+        "urgent": false
+      },
+      {
+        "text": "",
+        "urgent": false
+      },
+      {
+        "text": "",
+        "urgent": false
+      },
+      {
+        "text": "",
+        "urgent": false
+      },
+      {
+        "text": "",
+        "urgent": false
+      }
+    ],
+    "pricing_text": [
+      "$0 user/month",
+      "$12 user/month",
+      "Custom pricing"
+    ]
+  },
+  {
+    "name": "Mesh",
+    "all_texts": [
+      {
+        "text": "5 reasons why your travel management solution should be TMC-agnostic Read the Article",
+        "urgent": false
+      },
+      {
+        "text": "30 business travel tips for smarter corporate travel Read the Article",
+        "urgent": false
+      },
+      {
+        "text": "Corporate travel budget: how to set and manage it Read the Article",
+        "urgent": false
+      },
+      {
+        "text": "Travel allowance policies, benefits & global per diem insights Read the Article",
+        "urgent": false
+      },
+      {
+        "text": "Developing a travel policy: Key guidelines & templates Read the Article",
+        "urgent": false
+      },
+      {
+        "text": "Mesh named 2025 G2 Best Software Awards winner Read the Article",
+        "urgent": false
+      },
+      {
+        "text": "How you know it’s time to finally break up with Concur Read the Article",
+        "urgent": false
+      },
+      {
+        "text": "UK business travel: Trends to watch in 2025 Read the Article",
+        "urgent": false
+      },
+      {
+        "text": "Streamlining T&E for law firms: Save time and money—and boost compliance Maximize billable hours and minimize overhead with better travel and expense management Read the Article",
+        "urgent": false
+      }
+    ],
+    "pricing_text": [
+      "Free",
+      "$10",
+      "Custom"
+    ]
+  }
+]
